@@ -1,0 +1,11 @@
+.mainimage {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.images {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
